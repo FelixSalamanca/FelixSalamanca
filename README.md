@@ -18,3 +18,11 @@
 🚀 **Projects:**
 
 **[BotLab](https://botlab.gg)** — A no-code, visual Discord bot builder. Invite it to your server and it reads your setup, writes its own configuration (welcomes, stream alerts, levels, and more), and installs it in about a minute — no coding required. Powered by an in-app AI assistant (Astra) for deeper customization when needed.
+
+---
+
+### 🛠️ Languages & Tools
+![Skills](https://skillicons.dev/icons?i=lua,js,html,css,mysql,git,github,vscode)
+
+### ⚡ GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FelixSalamanca&show_icons=true&theme=dark&hide_border=true)
