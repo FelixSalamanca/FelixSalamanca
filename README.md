@@ -23,6 +23,3 @@
 
 ### 🛠️ Languages & Tools
 ![Skills](https://skillicons.dev/icons?i=lua,js,html,css,mysql,git,github,vscode)
-
-### ⚡ GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FelixSalamanca&show_icons=true&theme=dark&hide_border=true)
