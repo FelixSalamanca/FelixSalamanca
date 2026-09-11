@@ -1,16 +1,12 @@
-## Hi there 👋
+### Hey, I'm Felix 👋
 
-<!--
-**FelixSalamanca/FelixSalamanca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**RedM/FiveM Script Developer** with 4+ years of experience building and shipping commercial game systems. I run my own studio, **Legends Rising Studios**, developing scripts sold and supported through Tebex.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ **Technical experience:**
+- Lua scripting for RedM/FiveM
+- VORP Framework (deep, hands-on experience)
+- RDR3 natives
+- NUI (HTML/CSS/JS) interface development
+- MySQL/oxmysql database integration
+- Server-authoritative architecture (anti-cheat, secure economy systems)
+- Live server maintenance & customer support
