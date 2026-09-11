@@ -11,8 +11,6 @@
 - Server-authoritative architecture (anti-cheat, secure economy systems)
 - Live server maintenance & customer support
 
-🎮 Currently expanding that experience into **FiveM** development.
-
 ---
 
 🚀 **Projects:**
